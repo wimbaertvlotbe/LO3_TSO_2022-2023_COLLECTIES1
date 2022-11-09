@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LO3_TSO_2022-2023_COLLECTIES1", "LO3_TSO_2022-2023_COLLECTIES1\LO3_TSO_2022-2023_COLLECTIES1.csproj", "{923DD965-6902-4B56-A77C-465272DEDEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923DD965-6902-4B56-A77C-465272DEDEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923DD965-6902-4B56-A77C-465272DEDEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923DD965-6902-4B56-A77C-465272DEDEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923DD965-6902-4B56-A77C-465272DEDEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D82E0B4-091E-4673-9E35-659C519BED69}
+	EndGlobalSection
+EndGlobal
